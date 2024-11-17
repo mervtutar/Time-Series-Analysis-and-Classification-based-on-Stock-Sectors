@@ -1,7 +1,7 @@
 # Time Series Analysis and Classification based on Stock Sectors
  Yapay Zeka Uzmanlık Programı-Tübitak Veri Yogun Uygulamalar Modül Projesi
 Milli Teknoloji Hamlesi altinda Yapay Zeka Uzmanlık Programı kapsamında Tübitak tarafından verilen 18 saatlik Veri Yogun
-Uygulamar egitimi sonunda bu proje tamamlanmıştır.
+Uygulamalar egitimi sonunda bu proje tamamlanmıştır.
 Bu proje icerisinde amac farkli sektorlerden elde edilmis zaman serileri uzerinden elde edilen faktorler
 uzerine kurulmus bir classification modeli kurarak benzerlik calismasi yapmaktir.
 
